@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.uninter.helloworld.activities.MainActivity"
+    android:padding="50dp"
+    android:background="@color/background">
+
+
+    <ImageView
+        android:id="@+id/logotype"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/battlefield"
+        android:onClick="swapImg"/>
+
+    <EditText
+        android:id="@+id/textViewUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/user"
+        android:inputType="textPersonName"
+        android:backgroundTint="@color/background"
+        android:textCursorDrawable="@null"/>
+
+    <EditText
+        android:id="@+id/textViewPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/passwd"
+        android:inputType="textPersonName"
+        android:backgroundTint="@color/background"
+        android:textCursorDrawable="@null"/>
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="login"
+        android:text="@string/login"
+        android:textColor="@color/white"
+        style="@style/customBtn"/>
+</LinearLayout>

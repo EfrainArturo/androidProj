@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lab2-09\\AndroidStudioProjects\\helloWorld\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\lab2-09\\.android\\build-cache\\b14bcc28910323ecda2fcfbb8e1468425b7a4ce9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab2-09\\AndroidStudioProjects\\helloWorld\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\lab2-09\\.android\\build-cache\\b14bcc28910323ecda2fcfbb8e1468425b7a4ce9\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\eFRaiin\\Desktop\\Uninter\\Android\\hello\\helloWorld\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\eFRaiin\\.android\\build-cache\\af6dd557ffce299ac5c82eeb71654eeb8429115e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\eFRaiin\\Desktop\\Uninter\\Android\\hello\\helloWorld\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\eFRaiin\\.android\\build-cache\\af6dd557ffce299ac5c82eeb71654eeb8429115e\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
