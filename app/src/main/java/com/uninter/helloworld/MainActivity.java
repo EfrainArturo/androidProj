@@ -35,6 +35,11 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    /**
+     * Cool comment by christoph
+     * 
+     * @param view
+     */
     public void login(View view) {
                /* Intent sendIntent = new Intent();
                 sendIntent.setAction(Intent.ACTION_SEND);
